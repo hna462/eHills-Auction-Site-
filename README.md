@@ -1,6 +1,6 @@
-**eHills Documentation**						
+**eHills Documentation**
+
 Creator:​ Hemanth Anantha
-Creator EID:​ hna462
 						
 Basic Description
 						
